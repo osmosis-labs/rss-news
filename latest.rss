@@ -1,0 +1,112 @@
+
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/">
+	<channel>
+		<title>Osmosis Blog</title>
+		<link><![CDATA[https://osmosis.zone]]></link>
+		<description>Everything you want to know about the Osmosis</description>
+		<language>en</language>
+		<pubDate>Tue, 09 May 2023 17:25:23 +0000</pubDate>
+
+		<item>
+			<guid isPermaLink="false">4191444543</guid>
+			<title>Osmosis Updates from the Lab, January 25, 2023: Concentrated Liquidity, Cross-Chain Swaps, Carbon Market — Osmosis Blog</title>
+			<link>https://osmosis.zone/blog/uftl-jan-25-2023-concentrated-liquidity-cross-chain-swaps-carbon-market</link>
+			<dc:creator>Administrator</dc:creator>
+			<category>Site News</category>
+			<description>Concentrated Liquidity Incentives &amp; Limit Orders. Cross-chain swaps. Carbon market launching soon</description>
+			<pubDate>Tue, 09 May 2023 20:25:22 +0300</pubDate>
+			<enclosure url="https://uploads-ssl.webflow.com/62825f7982e99cdbe7e37258/63cffa8d18940aefba2639d7_blog-cover_1-lab-_2_.webp" />
+		</item>
+		<item>
+			<guid isPermaLink="false">3022298270</guid>
+			<title>Osmosis ProtoRev by Skip Protocol — Osmosis Blog</title>
+			<link>https://osmosis.zone/blog/osmosis-protorev-by-skip-protocol-on-chain-app-directed-arbitrage</link>
+			<dc:creator>Administrator</dc:creator>
+			<category>Site News</category>
+			<description>On-Chain, App-Directed Arbitrage</description>
+			<pubDate>Tue, 09 May 2023 20:25:21 +0300</pubDate>
+			<enclosure url="https://uploads-ssl.webflow.com/62825f7982e99cdbe7e37258/63d1b0bb7ca93b4dd5bea7c0_Group-35%20%281%29.webp" />
+		</item>
+		<item>
+			<guid isPermaLink="false">2165649764</guid>
+			<title>Osmosis Updates from the Lab, October 05: Cosmoverse, Mesh Security, Stables — Osmosis Blog</title>
+			<link>https://osmosis.zone/blog/osmosis-updates-from-the-lab-cosmoverse-mesh-security-stables</link>
+			<dc:creator>Administrator</dc:creator>
+			<category>Site News</category>
+			<description>Updates from the Lab, October 05</description>
+			<pubDate>Tue, 09 May 2023 20:25:20 +0300</pubDate>
+			<enclosure url="https://uploads-ssl.webflow.com/62825f7982e99cdbe7e37258/63cffa8d18940aefba2639d7_blog-cover_1-lab-_2_.webp" />
+		</item>
+		<item>
+			<guid isPermaLink="false">2436201555</guid>
+			<title>Layerswap — A New On-Ramp and Cross-Chain Service for Osmosis — Osmosis Blog</title>
+			<link>https://osmosis.zone/blog/layerswap-a-new-on-ramp-and-cross-chain-service-for-osmosis</link>
+			<dc:creator>Administrator</dc:creator>
+			<category>Site News</category>
+			<description>Layerswap is extending its suite of bridging and cross-chain services to Osmosis!</description>
+			<pubDate>Tue, 09 May 2023 20:25:19 +0300</pubDate>
+			<enclosure url="https://uploads-ssl.webflow.com/62825f7982e99cdbe7e37258/643087e5cb0fdf8523397241_Osmosis-X-Layerswap%20%281%29.webp" />
+		</item>
+		<item>
+			<guid isPermaLink="false">3764549766</guid>
+			<title>Protocol-Owned Builders, The Future of Sovereign Cosmos MEV — Osmosis Blog</title>
+			<link>https://osmosis.zone/blog/protocol-owned-builders-the-future-of-sovereign-cosmos-mev</link>
+			<dc:creator>Administrator</dc:creator>
+			<category>Site News</category>
+			<description>Sovereignty as a fundamental principle of the Cosmos design.</description>
+			<pubDate>Tue, 09 May 2023 20:25:18 +0300</pubDate>
+			<enclosure url="https://uploads-ssl.webflow.com/62825f7982e99cdbe7e37258/63f7c145c8d75c21ec0a0cf8_skip%20%281%29.webp" />
+		</item>
+		<item>
+			<guid isPermaLink="false">4246857070</guid>
+			<title>Understanding the Inter-Blockchain Communication Protocol — Osmosis Blog</title>
+			<link>https://osmosis.zone/blog/understanding-the-inter-blockchain-communication-protocol</link>
+			<dc:creator>Administrator</dc:creator>
+			<category>Site News</category>
+			<description>Enabling seamless connectivity across the Interchain.</description>
+			<pubDate>Tue, 09 May 2023 20:25:17 +0300</pubDate>
+			<enclosure url="https://uploads-ssl.webflow.com/62825f7982e99cdbe7e37258/63c19059c83fe05ac5f1c27e_timelab-pro-sWOvgOOFk1g-unsplash%20%281%29%20%281%29%20%281%29.webp" />
+		</item>
+		<item>
+			<guid isPermaLink="false">492002821</guid>
+			<title>Osmosis to host first-ever Mars Protocol Red Bank Outpost — Osmosis Blog</title>
+			<link>https://osmosis.zone/blog/osmosis-to-host-first-ever-mars-protocol-red-bank-outpost</link>
+			<dc:creator>Administrator</dc:creator>
+			<category>Site News</category>
+			<description>One of the biggest upgrades to the Osmosis Ecosystem</description>
+			<pubDate>Tue, 09 May 2023 20:25:16 +0300</pubDate>
+			<enclosure url="https://uploads-ssl.webflow.com/62825f7982e99cdbe7e37258/63e40eaea062312a31d04516_MARS-ART%20%281%29%20%283%29.webp" />
+		</item>
+		<item>
+			<guid isPermaLink="false">1431703384</guid>
+			<title>Osmosis Updates from the Lab, November 16: Front-end Updates &amp; Stableswap — Osmosis Blog</title>
+			<link>https://osmosis.zone/blog/osmosis-updates-from-the-lab-front-end-updates-stableswa</link>
+			<dc:creator>Administrator</dc:creator>
+			<category>Site News</category>
+			<description>Updates from the Lab, November 16</description>
+			<pubDate>Tue, 09 May 2023 20:25:15 +0300</pubDate>
+			<enclosure url="https://uploads-ssl.webflow.com/62825f7982e99cdbe7e37258/63cffa8d18940aefba2639d7_blog-cover_1-lab-_2_.webp" />
+		</item>
+		<item>
+			<guid isPermaLink="false">1727495621</guid>
+			<title>What is an appchain and Why is everyone talking about it? — Osmosis Blog</title>
+			<link>https://osmosis.zone/blog/what-is-an-appchain-and-why-is-everyone-talking-about-it</link>
+			<dc:creator>Administrator</dc:creator>
+			<category>Site News</category>
+			<description>Building interconnected, secure and scaleable applications</description>
+			<pubDate>Tue, 09 May 2023 20:25:14 +0300</pubDate>
+			<enclosure url="https://uploads-ssl.webflow.com/62825f7982e99cdbe7e37258/63b30aa5b19a1c967fb2dfaf_unnamed.webp" />
+		</item>
+		<item>
+			<guid isPermaLink="false">1116502432</guid>
+			<title>Osmosis for Applications: Cross-Chain Swaps as a Service — Osmosis Blog</title>
+			<link>https://osmosis.zone/blog/osmosis-for-applications-cross-chain-swaps-as-a-service</link>
+			<dc:creator>Administrator</dc:creator>
+			<category>Site News</category>
+			<description>Cross-chain is hard, but Osmosis makes it easy.</description>
+			<pubDate>Tue, 09 May 2023 20:25:13 +0300</pubDate>
+			<enclosure url="https://uploads-ssl.webflow.com/62825f7982e99cdbe7e37258/639b941dd3660f0ed335d59b_0_AMSSzHdd3lwvuLI5.webp" />
+		</item>
+	</channel>
+</rss>
