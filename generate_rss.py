@@ -76,7 +76,7 @@ for section in article_sections:
 rss_feed = fg.rss_str(pretty=True)
 
 # Save the RSS feed to a file
-with open("blog_rss_feed.xml", "wb") as f:
+with open("latest.rss", "wb") as f:
     f.write(rss_feed)
 
 print("RSS feed generated and saved.")
