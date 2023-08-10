@@ -15,7 +15,7 @@ soup = BeautifulSoup(response.content, "html.parser")
 fg = FeedGenerator()
 fg.title("Osmosis Blog RSS Feed")
 fg.link(href=url, rel="alternate")
-fg.description("Latest articles from the Osmosis Labs")
+fg.description("Latest articles from the Osmosis")
 
 # Find all article sections in the HTML
 article_sections = soup.find_all("div", class_="blog-post-grid")
@@ -28,13 +28,13 @@ for section in article_sections:
         if title_elem:
             title = title_elem.text
         else:
-            title = "No Title"
+            continue  # Skip this entry if title is missing
 
         description_elem = article.find("div", {"fs-cmsfilter-field": "description"})
         if description_elem:
             description = description_elem.text
         else:
-            description = "No Description"
+            continue  # Skip this entry if description is missing
 
         date_elem = article.find("div", class_="text-block-5")
         if date_elem:
@@ -44,21 +44,21 @@ for section in article_sections:
                 date = datetime.strptime(date_str, "%B %d, %Y")
                 date = pytz.timezone("GMT").localize(date)  # Set the timezone
             except ValueError:
-                date = datetime.now(pytz.timezone("GMT"))  # Default to current time in case of parsing error
+                continue  # Skip this entry if date parsing fails
         else:
-            date = datetime.now(pytz.timezone("GMT"))  # Default to current time if date is missing
+            continue  # Skip this entry if date is missing
 
         article_link = article.find("a", class_="blog-post")
         if article_link:
             article_url = article_link.get("href")
         else:
-            article_url = ""
+            continue  # Skip this entry if link is missing
 
         image_elem = article.find("img", class_="image-item")
         if image_elem:
             image_url = image_elem.get("src")
         else:
-            image_url = ""
+            continue  # Skip this entry if image is missing
 
         # Create a new entry in the RSS feed
         fe = fg.add_entry()
@@ -75,4 +75,4 @@ rss_feed = fg.rss_str(pretty=True)
 with open("blog_rss_feed.xml", "wb") as f:
     f.write(rss_feed)
 
-print("RSS feed generated and saved.")
+print("RSS feed generated and commited.")
