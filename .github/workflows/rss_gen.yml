@@ -1,9 +1,9 @@
-name: Generate RSS Feed
+name: Generate and Commit RSS Feed
 
 on:
   push:
     branches:
-      - stage  # Adjust the branch name if needed
+      - stage
 
 jobs:
   generate_rss_feed:
@@ -16,14 +16,22 @@ jobs:
       - name: Set up Python
         uses: actions/setup-python@v2
         with:
-          python-version: 3.8  # Use the appropriate Python version
+          python-version: 3.8
 
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
           pip install beautifulsoup4 feedgen pytz requests
 
-      - name: Generate RSS Feed and Save
+      - name: Generate RSS Feed
+        run: python generate_rss.py
+
+      - name: Commit and Push Changes
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          python generate_rss.py
-          mv $GITHUB_WORKSPACE/blog_rss_feed.xml $GITHUB_WORKSPACE/blog_rss_feed_generated.xml
+          git config --global user.email "action@github.com"
+          git config --global user.name "GitHub Action"
+          git add blog_rss_feed.xml
+          git commit -m "Update RSS feed"
+          git push origin HEAD
