@@ -1,3 +1,6 @@
+# Osmosis RSS feed
+Please use: https://rss.osmosis.zone/latest.rss for the latest news feed from Osmosis. 
+
 
 # Osmosis Blog RSS Feed Generator Script
 
