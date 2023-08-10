@@ -3,7 +3,7 @@ name: Generate RSS Feed
 on:
   push:
     branches:
-      - main  # Adjust the branch name if needed
+      - stage  # Adjust the branch name if needed
 
 jobs:
   generate_rss_feed:
