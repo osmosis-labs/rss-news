@@ -1,17 +1,17 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
   <channel>
-    <title>Blog RSS Feed</title>
+    <title>Osmosis Blog RSS Feed</title>
     <link>https://osmosis.zone/blog</link>
-    <description>Latest articles from the blog</description>
+    <description>Latest articles from the Osmosis Labs</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 10 Aug 2023 10:01:58 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Aug 2023 10:04:11 +0000</lastBuildDate>
     <item>
       <title>No Title</title>
       <description>No Description</description>
       <enclosure url="" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 10 Aug 2023 10:01:58 +0000</pubDate>
+      <pubDate>Thu, 10 Aug 2023 10:04:11 +0000</pubDate>
     </item>
     <item>
       <title>Osmosis after One Year: Achievements and Future Directions</title>
@@ -24,7 +24,7 @@
       <title>No Title</title>
       <description>No Description</description>
       <enclosure url="" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 10 Aug 2023 10:01:58 +0000</pubDate>
+      <pubDate>Thu, 10 Aug 2023 10:04:11 +0000</pubDate>
     </item>
     <item>
       <title>Mars Protocol Lands on Osmosis</title>
@@ -37,7 +37,7 @@
       <title>No Title</title>
       <description>No Description</description>
       <enclosure url="" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 10 Aug 2023 10:01:58 +0000</pubDate>
+      <pubDate>Thu, 10 Aug 2023 10:04:11 +0000</pubDate>
     </item>
     <item>
       <title>Osmosis Updates from the Lab, October 05: Cosmoverse, Mesh Security, Stables</title>
@@ -50,7 +50,7 @@
       <title>No Title</title>
       <description>No Description</description>
       <enclosure url="" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 10 Aug 2023 10:01:58 +0000</pubDate>
+      <pubDate>Thu, 10 Aug 2023 10:04:11 +0000</pubDate>
     </item>
     <item>
       <title>Osmosis Updates from the Lab, November 16: Front-end Updates &amp; Stableswap</title>
@@ -63,7 +63,7 @@
       <title>No Title</title>
       <description>No Description</description>
       <enclosure url="" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 10 Aug 2023 10:01:58 +0000</pubDate>
+      <pubDate>Thu, 10 Aug 2023 10:04:11 +0000</pubDate>
     </item>
     <item>
       <title>Osmosis Ecosystem Spotlight: Laika</title>
@@ -76,7 +76,7 @@
       <title>No Title</title>
       <description>No Description</description>
       <enclosure url="" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 10 Aug 2023 10:01:58 +0000</pubDate>
+      <pubDate>Thu, 10 Aug 2023 10:04:11 +0000</pubDate>
     </item>
     <item>
       <title>Osmosis Updates from the Lab, November 30, 2022: Osmosis v13</title>
@@ -89,7 +89,7 @@
       <title>No Title</title>
       <description>No Description</description>
       <enclosure url="" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 10 Aug 2023 10:01:58 +0000</pubDate>
+      <pubDate>Thu, 10 Aug 2023 10:04:11 +0000</pubDate>
     </item>
     <item>
       <title>Osmosis for Applications: Cross-Chain Swaps as a Service</title>
@@ -103,7 +103,7 @@
       <title>No Title</title>
       <description>No Description</description>
       <enclosure url="" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 10 Aug 2023 10:01:58 +0000</pubDate>
+      <pubDate>Thu, 10 Aug 2023 10:04:11 +0000</pubDate>
     </item>
     <item>
       <title>How Osmosis &amp; Axelar Provide Secure Cross-Chain Liquidity</title>
@@ -116,7 +116,7 @@
       <title>No Title</title>
       <description>No Description</description>
       <enclosure url="" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 10 Aug 2023 10:01:58 +0000</pubDate>
+      <pubDate>Thu, 10 Aug 2023 10:04:11 +0000</pubDate>
     </item>
     <item>
       <title>Osmosis Ecosystem Spotlight: Croncat</title>
@@ -129,7 +129,7 @@
       <title>No Title</title>
       <description>No Description</description>
       <enclosure url="" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 10 Aug 2023 10:01:58 +0000</pubDate>
+      <pubDate>Thu, 10 Aug 2023 10:04:11 +0000</pubDate>
     </item>
     <item>
       <title>What is an appchain and Why is everyone talking about it?</title>
@@ -142,7 +142,7 @@
       <title>No Title</title>
       <description>No Description</description>
       <enclosure url="" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 10 Aug 2023 10:01:58 +0000</pubDate>
+      <pubDate>Thu, 10 Aug 2023 10:04:11 +0000</pubDate>
     </item>
     <item>
       <title>Permissioning CosmWasm Contracts on Osmosis</title>
@@ -155,7 +155,7 @@
       <title>No Title</title>
       <description>No Description</description>
       <enclosure url="" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 10 Aug 2023 10:01:58 +0000</pubDate>
+      <pubDate>Thu, 10 Aug 2023 10:04:11 +0000</pubDate>
     </item>
     <item>
       <title>Osmosis 2022: Retrospective</title>
@@ -168,7 +168,7 @@
       <title>No Title</title>
       <description>No Description</description>
       <enclosure url="" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 10 Aug 2023 10:01:58 +0000</pubDate>
+      <pubDate>Thu, 10 Aug 2023 10:04:11 +0000</pubDate>
     </item>
     <item>
       <title>Osmosis Updates from the Lab, December 14: ICNS &amp; Incentives, Laika &amp; Chaos Labs, Lava Network</title>
@@ -181,7 +181,7 @@
       <title>No Title</title>
       <description>No Description</description>
       <enclosure url="" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 10 Aug 2023 10:01:58 +0000</pubDate>
+      <pubDate>Thu, 10 Aug 2023 10:04:11 +0000</pubDate>
     </item>
     <item>
       <title>Understanding the Inter-Blockchain Communication Protocol</title>
@@ -194,13 +194,13 @@
       <title>No Title</title>
       <description>No Description</description>
       <enclosure url="" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 10 Aug 2023 10:01:58 +0000</pubDate>
+      <pubDate>Thu, 10 Aug 2023 10:04:11 +0000</pubDate>
     </item>
     <item>
       <title>No Title</title>
       <description>No Description</description>
       <enclosure url="" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 10 Aug 2023 10:01:58 +0000</pubDate>
+      <pubDate>Thu, 10 Aug 2023 10:04:11 +0000</pubDate>
     </item>
     <item>
       <title>Osmosis Ecosystem Spotlight: Quasar Finance</title>
@@ -213,7 +213,7 @@
       <title>No Title</title>
       <description>No Description</description>
       <enclosure url="" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 10 Aug 2023 10:01:58 +0000</pubDate>
+      <pubDate>Thu, 10 Aug 2023 10:04:11 +0000</pubDate>
     </item>
     <item>
       <title>Osmosis Updates from the Lab, January 11, 2023: Concentrated Liquidity, Scanworks, Zodiac</title>
@@ -226,7 +226,7 @@
       <title>No Title</title>
       <description>No Description</description>
       <enclosure url="" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 10 Aug 2023 10:01:58 +0000</pubDate>
+      <pubDate>Thu, 10 Aug 2023 10:04:11 +0000</pubDate>
     </item>
     <item>
       <title>Osmosis ProtoRev by Skip Protocol</title>
@@ -239,7 +239,7 @@
       <title>No Title</title>
       <description>No Description</description>
       <enclosure url="" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 10 Aug 2023 10:01:58 +0000</pubDate>
+      <pubDate>Thu, 10 Aug 2023 10:04:11 +0000</pubDate>
     </item>
     <item>
       <title>Osmosis Updates from the Lab, January 25, 2023: Concentrated Liquidity, Cross-Chain Swaps, Carbon Market</title>
@@ -252,7 +252,7 @@
       <title>No Title</title>
       <description>No Description</description>
       <enclosure url="" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 10 Aug 2023 10:01:58 +0000</pubDate>
+      <pubDate>Thu, 10 Aug 2023 10:04:11 +0000</pubDate>
     </item>
     <item>
       <title>Osmosis to host first-ever Mars Protocol Red Bank Outpost</title>
@@ -265,7 +265,7 @@
       <title>No Title</title>
       <description>No Description</description>
       <enclosure url="" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 10 Aug 2023 10:01:58 +0000</pubDate>
+      <pubDate>Thu, 10 Aug 2023 10:04:11 +0000</pubDate>
     </item>
     <item>
       <title>Osmosis Welcomes Avalanche</title>
@@ -278,7 +278,7 @@
       <title>No Title</title>
       <description>No Description</description>
       <enclosure url="" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 10 Aug 2023 10:01:58 +0000</pubDate>
+      <pubDate>Thu, 10 Aug 2023 10:04:11 +0000</pubDate>
     </item>
     <item>
       <title>Osmosis Updates from the Lab, February 08, 2023: Cross-Chain w/ Avalanche &amp; Polygon, Red Bank Launch</title>
@@ -291,7 +291,7 @@
       <title>No Title</title>
       <description>No Description</description>
       <enclosure url="" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 10 Aug 2023 10:01:58 +0000</pubDate>
+      <pubDate>Thu, 10 Aug 2023 10:04:11 +0000</pubDate>
     </item>
     <item>
       <title>Protocol-Owned Builders, The Future of Sovereign Cosmos MEV</title>
@@ -304,7 +304,7 @@
       <title>No Title</title>
       <description>No Description</description>
       <enclosure url="" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 10 Aug 2023 10:01:58 +0000</pubDate>
+      <pubDate>Thu, 10 Aug 2023 10:04:11 +0000</pubDate>
     </item>
     <item>
       <title>Celatone: A Smart Contract Explorer for Osmosis</title>
@@ -317,7 +317,7 @@
       <title>No Title</title>
       <description>No Description</description>
       <enclosure url="" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 10 Aug 2023 10:01:58 +0000</pubDate>
+      <pubDate>Thu, 10 Aug 2023 10:04:11 +0000</pubDate>
     </item>
     <item>
       <title>Osmosis Welcomes Fantom</title>
@@ -330,7 +330,7 @@
       <title>No Title</title>
       <description>No Description</description>
       <enclosure url="" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 10 Aug 2023 10:01:58 +0000</pubDate>
+      <pubDate>Thu, 10 Aug 2023 10:04:11 +0000</pubDate>
     </item>
     <item>
       <title>Osmosis Quarterly Report: Q1 2023</title>
@@ -343,7 +343,7 @@
       <title>No Title</title>
       <description>No Description</description>
       <enclosure url="" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 10 Aug 2023 10:01:58 +0000</pubDate>
+      <pubDate>Thu, 10 Aug 2023 10:04:11 +0000</pubDate>
     </item>
     <item>
       <title>Layerswap – A New On-Ramp and Cross-Chain Service for Osmosis</title>
@@ -356,7 +356,7 @@
       <title>No Title</title>
       <description>No Description</description>
       <enclosure url="" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 10 Aug 2023 10:01:58 +0000</pubDate>
+      <pubDate>Thu, 10 Aug 2023 10:04:11 +0000</pubDate>
     </item>
     <item>
       <title>NCT on Osmosis: Carbon Markets are coming to the Cosmos</title>
@@ -369,7 +369,7 @@
       <title>No Title</title>
       <description>No Description</description>
       <enclosure url="" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 10 Aug 2023 10:01:58 +0000</pubDate>
+      <pubDate>Thu, 10 Aug 2023 10:04:11 +0000</pubDate>
     </item>
     <item>
       <title>Announcing: A Mesh Security Initiative</title>
@@ -382,7 +382,7 @@
       <title>No Title</title>
       <description>No Description</description>
       <enclosure url="" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 10 Aug 2023 10:01:58 +0000</pubDate>
+      <pubDate>Thu, 10 Aug 2023 10:04:11 +0000</pubDate>
     </item>
     <item>
       <title>Osmosis Governance enables deployment of Pyth Price Oracles </title>
@@ -395,7 +395,7 @@
       <title>No Title</title>
       <description>No Description</description>
       <enclosure url="" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 10 Aug 2023 10:01:58 +0000</pubDate>
+      <pubDate>Thu, 10 Aug 2023 10:04:11 +0000</pubDate>
     </item>
     <item>
       <title>Unveiling: OSMO 2.0 </title>
@@ -408,7 +408,7 @@
       <title>No Title</title>
       <description>No Description</description>
       <enclosure url="" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 10 Aug 2023 10:01:58 +0000</pubDate>
+      <pubDate>Thu, 10 Aug 2023 10:04:11 +0000</pubDate>
     </item>
     <item>
       <title>Osmosis x Composable: Pioneering Cross-Ecosystem IBC for a Unified DeFi Future</title>
@@ -421,7 +421,7 @@
       <title>No Title</title>
       <description>No Description</description>
       <enclosure url="" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 10 Aug 2023 10:01:58 +0000</pubDate>
+      <pubDate>Thu, 10 Aug 2023 10:04:11 +0000</pubDate>
     </item>
     <item>
       <title>Osmosis v16.0.0 - Magnesium Upgrade</title>
@@ -434,7 +434,7 @@
       <title>No Title</title>
       <description>No Description</description>
       <enclosure url="" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 10 Aug 2023 10:01:58 +0000</pubDate>
+      <pubDate>Thu, 10 Aug 2023 10:04:11 +0000</pubDate>
     </item>
     <item>
       <title>Supercharged Liquidity and OSMO 2.0: A Revolution in Decentralized Market Making</title>
