@@ -13,9 +13,9 @@ soup = BeautifulSoup(response.content, "html.parser")
 
 # Create an RSS feed
 fg = FeedGenerator()
-fg.title("Blog RSS Feed")
+fg.title("Osmosis Blog RSS Feed")
 fg.link(href=url, rel="alternate")
-fg.description("Latest articles from the blog")
+fg.description("Latest articles from the Osmosis Labs")
 
 # Find all article sections in the HTML
 article_sections = soup.find_all("div", class_="blog-post-grid")
