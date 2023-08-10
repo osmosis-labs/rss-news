@@ -32,6 +32,6 @@ jobs:
         run: |
           git config --global user.email "action@github.com"
           git config --global user.name "GitHub Action"
-          git add latest.xml
+          git add latest.rss
           git commit -m "Update RSS feed"
           git push origin HEAD
