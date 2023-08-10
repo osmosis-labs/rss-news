@@ -3,6 +3,7 @@ from bs4 import BeautifulSoup
 from feedgen.feed import FeedGenerator
 from datetime import datetime
 import pytz
+from urllib.parse import urljoin
 
 # URL of the blog page
 url = "https://osmosis.zone/blog"
@@ -19,6 +20,9 @@ fg.description("Latest articles from the Osmosis")
 
 # Find all article sections in the HTML
 article_sections = soup.find_all("div", class_="blog-post-grid")
+
+# Get base URL for relative URL conversion
+base_url = url
 
 # Iterate through each article section
 for section in article_sections:
@@ -50,13 +54,13 @@ for section in article_sections:
 
         article_link = article.find("a", class_="blog-post")
         if article_link:
-            article_url = article_link.get("href")
+            article_url = urljoin(base_url, article_link.get("href"))
         else:
             continue  # Skip this entry if link is missing
 
         image_elem = article.find("img", class_="image-item")
         if image_elem:
-            image_url = image_elem.get("src")
+            image_url = urljoin(base_url, image_elem.get("src"))
         else:
             continue  # Skip this entry if image is missing
 
@@ -75,4 +79,4 @@ rss_feed = fg.rss_str(pretty=True)
 with open("blog_rss_feed.xml", "wb") as f:
     f.write(rss_feed)
 
-print("RSS feed generated and commited.")
+print("RSS feed generated and saved.")
