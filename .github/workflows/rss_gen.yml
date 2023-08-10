@@ -3,7 +3,7 @@ name: Generate RSS Feed
 on:
   push:
     branches:
-      - stage  # Adjust the branch name if needed
+      - main  # Adjust the branch name if needed
 
 jobs:
   generate_rss_feed:
@@ -26,4 +26,4 @@ jobs:
       - name: Generate RSS Feed and Save
         run: |
           python generate_rss.py
-          mv blog_rss_feed.xml $GITHUB_WORKSPACE/blog_rss_feed.xml
+          mv $GITHUB_WORKSPACE/blog_rss_feed.xml $GITHUB_WORKSPACE/blog_rss_feed_generated.xml
