@@ -4,6 +4,8 @@ on:
   push:
     branches:
       - main
+  schedule:
+    - cron: "0 */6 * * *"
 
 jobs:
   generate_rss_feed:
