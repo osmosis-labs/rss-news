@@ -6,7 +6,7 @@
     <description>Latest articles from the Osmosis</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 02 Oct 2023 12:03:39 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 02 Oct 2023 18:02:48 +0000</lastBuildDate>
     <item>
       <title>Osmosis after One Year: Achievements and Future Directions</title>
       <link>https://osmosis.zone/blog/osmocon-year-one-recap-</link>
@@ -245,6 +245,13 @@
       <description>Relive the exciting announcements that took place during the iconic conference.</description>
       <enclosure url="https://uploads-ssl.webflow.com/62825f7982e99cdbe7e37258/64e3798c6a5e5dde09bbf310_unnamed-_1_%20(1).webp" length="0" type="image/jpeg"/>
       <pubDate>Mon, 21 Aug 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Noble and Circle Team Up to Bring Native USDC to Osmosis and the Cosmos Ecosystem</title>
+      <link>https://osmosis.zone/blog/noble-and-circle-team-up-to-bring-native-usdc-to-osmosis-and-the-cosmos-ecosystem</link>
+      <description>Native stablecoin liquidity is making its way to the Interchain DEX</description>
+      <enclosure url="https://uploads-ssl.webflow.com/62825f7982e99cdbe7e37258/651ad50956562faf46396d25_FvIOytwWwAM3xJX.webp" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 02 Oct 2023 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
