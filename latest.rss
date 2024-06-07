@@ -6,6 +6,6 @@
     <description>Latest articles from the Osmosis</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 07 Jun 2024 12:04:29 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 07 Jun 2024 18:03:13 +0000</lastBuildDate>
   </channel>
 </rss>
